@@ -72,6 +72,7 @@ main {
   border-radius: 12px;
   flex: 0 0 calc((100% - 48px) / 3);
   overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 .cource-item img {
   width: 100%;
@@ -111,6 +112,7 @@ main {
   border-radius: 12px;
   flex: 0 0 calc((100% - 24px) / 2);
   overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 .recommend-if {
   padding: 19.2px;
